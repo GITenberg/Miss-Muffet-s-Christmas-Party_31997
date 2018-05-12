@@ -18,6 +18,8 @@ creator:
 description: 'A Christmas party is attended by common storybook characters: Mother
   Goose, Cinderella, assorted elves, Sinbad, Humpty Dumpty, Uncle Remus, Brer Rabbit,
   Piped Piper, Rockaby Lady, and others.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31997#Miss-Muffet-s-Christmas-Party
 gutenberg_issued: '2010-04-15'
 gutenberg_type: Text
 identifiers:
